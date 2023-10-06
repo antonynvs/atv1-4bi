@@ -1,0 +1,36 @@
+h1 {
+    text-align: center;
+}
+
+.first {
+    border: 3px solid royalblue ;
+    width: 80px;
+    height: 80px;
+    padding: 80px;
+    margin: auto;
+    
+}
+
+.second {
+    border: 3px solid red ;
+    width: 80px;
+    height: 80px;
+    padding: 80px;
+    text-align: center;
+}
+
+.third {
+    border: 3px solid yellowgreen ;
+    width: 80px;
+    height: 80px;
+    margin: 180px;
+    padding: 80px;
+} 
+
+.fourth {
+    border: 3px solid rebeccapurple;
+    width: 80px;
+    height: 80px;
+    margin: auto;
+    padding: 80px;
+}
